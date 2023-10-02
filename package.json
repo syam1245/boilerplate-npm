@@ -11,5 +11,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Syam Pushpan",
+	"author": {
+		"name": "Syam Pushpan"
+}
 }
