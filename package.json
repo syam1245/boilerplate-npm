@@ -9,10 +9,10 @@
     "start": "node server.js"
   },
   "engines": {
-    "node": "14.x"
+    "node": "v20.6.1"
   },
   "repository": {
-    "type": "git",
-    "url": "https://idontknow/todo.git"
+    "type": "boilerplate-npm",
+    "url": "https://github.com/syam1245/boilerplate-npm.git"
   }
 }
